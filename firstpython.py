@@ -1,2 +1,2 @@
 #this is my first file on github
-Print("It is a wonderful world")
+print("It is a wonderful world")
